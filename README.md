@@ -1,6 +1,6 @@
 # Basic - Project: Website Code | GitHub | Web Server - Hosting
 
-This repository contains a step-by-step guide to set up and host a static website using Git and Mini-HTTPD on a Linux server. The process demonstrates how to clone your website code from GitHub and serve it through a simple HTTP server.
+This repository contains a step-by-step guide to set up and host a static website using Git and Mini-httpd on a Linux server. The process demonstrates how to clone your website code from GitHub and serve it through a simple HTTP server.
 
 ## Prerequisites
 - A Linux-based virtual machine (VM) like an Ubuntu server.
