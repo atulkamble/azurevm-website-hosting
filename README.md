@@ -1,7 +1,3 @@
-Here's the updated `README.md` file for your project:
-
----
-
 # Basic - Project: Website Code | GitHub | Web Server - Hosting
 
 This repository contains a step-by-step guide to set up and host a static website using Git and Mini-HTTPD on a Linux server. The process demonstrates how to clone your website code from GitHub and serve it through a simple HTTP server.
@@ -70,7 +66,5 @@ This repository contains a step-by-step guide to set up and host a static websit
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 Let me know if you need any additional changes!
