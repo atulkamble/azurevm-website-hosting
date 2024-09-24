@@ -36,14 +36,14 @@ This repository contains a step-by-step guide to set up and host a static websit
    ```
 
 6. **Clone the Website Repository**
-   - Clone your website code from GitHub:
-     ```bash
-     git clone https://github.com/atulkamble/testwebsite.git
-     ```
-   - Alternatively, clone with `sudo` for permission issues:
-     ```bash
-     sudo git clone https://github.com/atulkamble/testwebsite.git
-     ```
+   Clone your website code from GitHub:
+   ```bash
+   git clone https://github.com/atulkamble/testwebsite.git
+   ```
+   Alternatively, clone with `sudo` for permission issues:
+   ```bash
+   sudo git clone https://github.com/atulkamble/testwebsite.git
+   ```
 
 7. **Move Website Files to the Web Directory**
    ```bash
@@ -54,10 +54,10 @@ This repository contains a step-by-step guide to set up and host a static websit
    ```
 
 8. **Access the Website**
-   - Replace the public IP with your Azure VM's public IP and visit the website in your browser:
-     ```
-     http://<your-public-ip>/
-     ```
+   Replace the public IP with your Azure VM's public IP and visit the website in your browser:
+   ```
+   http://<your-public-ip>/
+   ```
 
    Example:
    ```
